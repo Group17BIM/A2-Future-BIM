@@ -18,3 +18,4 @@ And our fundaments for future code are below:
 
 ![picture4](https://user-images.githubusercontent.com/114358326/196060930-9b088eeb-0980-4b1d-8899-a3546ee8a210.PNG)
 
+In general vision of Future BIM tool used for our structural case is to have such file that will calculate data from contributed ifc file. But this goal can be reached after some steps and substeps created in code each. From user point of view he could run out this application with some inside calculations and showing results in clearly readable html file. That requires correct working of every part of system ( .py , .js, .html. , ifc. files) and well flowing correlation between them.  
