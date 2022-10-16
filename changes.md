@@ -4,14 +4,17 @@ In our work we get inside of HTML-Build-IFC-Converter. How structural use case c
 
 We modified code in main() function inside .js file that now it is possible to find beams that are in uploaded file
  
-picture1
-
-
+![picture1](https://user-images.githubusercontent.com/114358326/196060746-72cdefd4-4329-48d7-a3cd-6ebe380ef21e.PNG)
 
 With some graphical improvements results could be seen on .html file: 
+
+ ![picture2](https://user-images.githubusercontent.com/114358326/196060912-a9ddc3fc-c68f-458c-882f-ab1ce58af233.PNG)
  
-picture2
 Getting beam coordinates demand importing correct library that is: ifcopenshell.util.placement in .py file:
-picture3
+
+![picture3](https://user-images.githubusercontent.com/114358326/196060922-edaacb2f-a0b1-4816-9afd-87d0215181b8.PNG)
+
 And our fundaments for future code are below:
-picture4
+
+![picture4](https://user-images.githubusercontent.com/114358326/196060930-9b088eeb-0980-4b1d-8899-a3546ee8a210.PNG)
+
